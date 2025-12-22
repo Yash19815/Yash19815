@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Yash! 👋
 
-<!--
-**Yash19815/Yash19815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏗️ Architecting logic, Designing visuals, & Analyzing data.
 
-Here are some ideas to get you started:
+I am a developer and creator bridging the gap between software, hardware, and design. From IoT sensors to pixel-perfect UI and data insights, I build end-to-end solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Current Focus:** Machine Learning & IoT Systems
+- 🎨 **Design Tools:** Figma, Adobe After Effects, Premiere Pro, Photoshop
+- 📊 **Data Stack:** PowerBI, Tableau, R, Python
+- 🌍 **Portfolio:** [**yashgedia.page**](https://yashgedia.page)
+
+---
+
+### 🛠️ Technical Arsenal
+
+| **Domain** | **Skills & Tools** |
+| :--- | :--- |
+| **💻 Full Stack** | Python, JavaScript, HTML/CSS, SQL, APIs, Git |
+| **☁️ Infrastructure** | Cloud Computing, DBMS, Docker |
+| **⚙️ Hardware/IoT** | MicroPython, C, IoT Sensors & Architecture |
+| **🧠 Intelligence** | Machine Learning, Algorithms, Data Analytics |
+| **🎨 Creative** | UI/UX Design (Figma), Video Editing (Adobe Suite) |
+
+---
+
+<div align="center">
+  <a href="https://yashgedia.page">
+    <h3>🚀 Check out my full portfolio at yashgedia.page</h3>
+  </a>
+</div>
