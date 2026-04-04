@@ -19,7 +19,7 @@ I am a developer and creator bridging the gap between software, hardware, and de
 | **☁️ Infrastructure** | Cloud Computing, DBMS, Docker |
 | **⚙️ Hardware/IoT** | MicroPython, C, IoT Sensors & Architecture |
 | **🧠 Intelligence** | Machine Learning, Algorithms, Data Analytics |
-| **🎨 Creative** | UI/UX Design (Figma), Video Editing (Adobe Suite) |
+| **🎨 Creative** | UI/UX Design (Figma),Graphic Design(Adobe Photoshop) , Video Editing (Adobe After effects/Premier Pro) |
 
 ---
 
