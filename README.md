@@ -1,30 +1,27 @@
-# Hi, I'm Yash! 👋
-
-### 🏗️ Architecting logic, Designing visuals, & Analyzing data.
-
-I am a developer and creator bridging the gap between software, hardware, and design. From IoT sensors to pixel-perfect UI and data insights, I build end-to-end solutions.
-
-- 🔭 **Current Focus:** Machine Learning & IoT Systems
-- 🎨 **Design Tools:** Figma, Adobe After Effects, Premiere Pro, Photoshop
-- 📊 **Data Stack:** PowerBI, Tableau, R, Python
-- 🌍 **Portfolio:** [**yashgedia.page**](https://yashgedia.page)
-
----
+# 💫 About Me:
+I am a developer and creator bridging the gap between software, hardware, and design. From IoT sensors to pixel-perfect UI and data insights, I build end-to-end solutions.<br><br>
+🔭 **Current Focus**: Machine Learning & IoT Systems 
+🎨 **Design Tools**: Figma, Adobe After Effects, Premiere Pro, Photoshop 
+📊 **Data Stack**: PowerBI, Tableau, R, Python 
+🌍 **Portfolio**: [yashgedia.page](https://yashgedia.page)
 
 ### 🛠️ Technical Arsenal
 
-| **Domain** | **Skills & Tools** |
-| :--- | :--- |
-| **💻 Full Stack** | Python, JavaScript, HTML/CSS, SQL, APIs, Git |
-| **☁️ Infrastructure** | Cloud Computing, DBMS, Docker |
-| **⚙️ Hardware/IoT** | MicroPython, C, IoT Sensors & Architecture |
-| **🧠 Intelligence** | Machine Learning, Algorithms, Data Analytics |
-| **🎨 Creative** | UI/UX Design (Figma),Graphic Design(Adobe Photoshop) , Video Editing (Adobe After effects/Premier Pro) |
+| Domain | Skills & Tools |
+|---|---|
+| 💻 Full Stack | Python, JavaScript, HTML/CSS, SQL, APIs, Git |
+| ☁️ Infrastructure | Cloud Computing, DBMS, Docker |
+| ⚙️ Hardware/IoT | MicroPython, C, IoT Sensors & Architecture |
+| 🧠 Intelligence | Machine Learning, Algorithms, Data Analytics |
+| 🎨 Creative | UI/UX Design (Figma), Graphic Design (Adobe Photoshop), Video Editing (Adobe After Effects/Premiere Pro) |
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//yash-gedia-8a4395242/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Yash19815) 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Yash19815&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Yash19815&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yash19815&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-<div align="center">
-  <a href="https://yashgedia.page">
-    <h3>🚀 Check out my full portfolio at yashgedia.page</h3>
-  </a>
-</div>
