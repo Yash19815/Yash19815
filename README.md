@@ -1,9 +1,4 @@
-# 💫 About Me:
-I am a developer and creator bridging the gap between software, hardware, and design. From IoT sensors to pixel-perfect UI and data insights, I build end-to-end solutions.<br><br>
-🔭 **Current Focus**: Machine Learning & IoT Systems 
-🎨 **Design Tools**: Figma, Adobe After Effects, Premiere Pro, Photoshop 
-📊 **Data Stack**: PowerBI, Tableau, R, Python 
-🌍 **Portfolio**: [yashgedia.page](https://yashgedia.page)
+<img src="https://i.imgur.com/1ZvVkDc.gif" alt="banner gif" />
 
 ### 🛠️ Technical Arsenal
 
@@ -15,13 +10,10 @@ I am a developer and creator bridging the gap between software, hardware, and de
 | 🧠 Intelligence | Machine Learning, Algorithms, Data Analytics |
 | 🎨 Creative | UI/UX Design (Figma), Graphic Design (Adobe Photoshop), Video Editing (Adobe After Effects/Premiere Pro) |
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//yash-gedia-8a4395242/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Yash19815) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Yash19815&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=Yash19815&theme=dark&hide_border=false)<br/><p align="center">
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yash19815&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
-
----
+![](https://streak-stats.demolab.com/?user=Yash19815&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yash19815&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
